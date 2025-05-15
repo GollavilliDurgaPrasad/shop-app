@@ -60,6 +60,8 @@ I chose Redux Toolkit for state management because:
 - Used proper memoization and minimized re-renders
 - Implemented stale time in TanStack Query to reduce unnecessary API calls
 
+🔗 Deployment Link : https://shop-app-unico-project.netlify.app/
+
 ## Running the Project
 
 1. Install dependencies:
